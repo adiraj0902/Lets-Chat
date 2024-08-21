@@ -1,6 +1,6 @@
-# Firebase Chat App
+# Let's Chat
 
-Welcome to the Firebase Chat App repository! This app enables real-time chat functionality using Firebase as the backend. Below is a list of key files and their functionalities:
+Welcome to Let's Chat! This app enables real-time chat functionality using Firebase as the backend. Below is a list of key files and their functionalities:
 
 ## Activity Files
 
@@ -34,7 +34,6 @@ To use this app:
 
 ## Notes
 
-- This repository provides a basic structure for a Firebase-based chat app. You can extend and customize it as per your requirements.
 - Make sure to handle security and privacy aspects when implementing user authentication and chat features.
 
-For more details about Firebase services and Android app development, refer to the official [Firebase Documentation](https://firebase.google.com/docs) and [Android Documentation](https://developer.android.com/docs).
+For more details [Firebase Documentation](https://firebase.google.com/docs) and [Android Documentation](https://developer.android.com/docs).
